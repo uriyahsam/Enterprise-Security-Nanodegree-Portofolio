@@ -89,4 +89,4 @@ Ensure data security by classifying data, performing file integrity monitoring a
 
 ## License
 
-This content is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) License](LICENSE).
+This content is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) License](https://github.com/uriyahsam/Enterprise-Security-Nanodegree-Portofolio/blob/main/License.txt).
